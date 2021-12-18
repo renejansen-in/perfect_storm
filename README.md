@@ -1,5 +1,7 @@
 <img src="img/ps.001.png">
+
 Perfect Storm is my graduation project as part of my study program. In a week time I built a classification model in which I applied machine learning. Based on government data, the model is able to predict when there is a good reason for the Dutch to be concerned about an approaching storm.
+
 
 A perfect storm evokes a negative association for the Dutch, because under certain circumstances a storm can be disastrous for the country. With much of the country below sea level, there is no such thing as 'perfect' for the Dutch.
 
