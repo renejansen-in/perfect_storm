@@ -1,6 +1,8 @@
 <img src="img/ps.001.png">
 Perfect Storm is my graduation project as part of my study program. In a week time I built a classification model in which I applied machine learning. Based on government data, the model is able to predict when there is a good reason for the Dutch to be concerned about an approaching storm.
+
 A perfect storm evokes a negative association for the Dutch, because under certain circumstances a storm can be disastrous for the country. With much of the country below sea level, there is no such thing as 'perfect' for the Dutch.
+
 With this project I demonstrated my skills that I had acquired at the end of my education. I thought it was important to at least apply machine learning. In addition, I am interested in weather and national history. Since the flood disaster of 1953, the Netherlands has worked hard on the Delta Works, a collection of infrastructure to protect the country against storm surges and the rising water.
 
 ## Description
