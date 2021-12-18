@@ -16,7 +16,7 @@ In order to extract sufficient predictive value from the machine learning model,
 * determining spring tides by entering water meter readings into the model
 * the closing and opening of storm surge barriers under storm conditions and the official classification of every storm that has occurred in the past 33 years.
 
-After exploratory data analysis and cleaning I applied LogisticRegression as classifier. The target of the model can be flexibly set, both for the fearless, sober persons and the faint of heart. The result is a machine learning model with a high precision score. It is my intention to further improve the model in the near future. Therefore I refer to my Jupyter notebook which can be rendered with nbviewer, instead of mentioning the values of the score.
+After exploratory data analysis and cleaning I applied LogisticRegression as classifier. The target of the model can be flexibly set, both for the fearless, sober persons and the faint of heart. The result is a machine learning model with a high precision score. It is my intention to further improve the model in the near future. Therefore I refer to my <a href="https://nbviewer.org/github/renejansen-in/perfect_storm/blob/main/perfect_storm.ipynb">Jupyter notebook which can be rendered with nbviewer</a>, instead of mentioning the values of the score. 
 
 ## Contents
 
